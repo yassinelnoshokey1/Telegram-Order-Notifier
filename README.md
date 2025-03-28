@@ -73,7 +73,7 @@ Check the **Statistics** page in WordPress for a breakdown of your store's perfo
 ## Screenshots
 
 1. **Settings Page**  
-   ![Settings Page](https://images.unsplash.com/photo-1628260412297-a3377e45006f?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400&q=80)
+   ![Settings Page](https://www2.0zz0.com/2025/03/28/19/268405528.png)
 
 2. **Statistics Dashboard**  
    ![Stats Dashboard](https://images.unsplash.com/photo-1551288049-b11d4a0c77d7?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400&q=80)
