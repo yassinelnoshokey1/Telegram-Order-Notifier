@@ -1,6 +1,6 @@
 # Telegram-Order-Notifier
 A powerful WordPress plugin that connects your WooCommerce store to Telegram. Get instant order notifications with detailed stats, track completed, processing, and cancelled orders in real-time, and stay on top of your business—all from your Telegram app. Easy setup, sleek admin interface, and insightful store analytics included!
-![Plugin Banner]([https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=200&q=80](https://i.ibb.co/XkGMPKyv/Screenshot-2025-03-27-153241.png))  
+![Plugin Banner](https://www2.0zz0.com/2025/03/28/16/918821947.png)  
 *Instant order updates, right where you need them.*
 
 ---
